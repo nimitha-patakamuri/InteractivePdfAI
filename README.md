@@ -39,10 +39,8 @@ Interactive PDF AI is an online PDF question-answering system that allows users 
 2. **Clone this repository**:
 
 3. Install the Requirements:
-
    ```
    pip install -r requirements.txt                                                                                                                                              
-
    ```
 4. Run the app:
 
@@ -68,6 +66,3 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
-7. 
-Feel free to customize the content to better fit your project's specifics. If there are any additional details or adjustments you'd like to include, let me know!
-
