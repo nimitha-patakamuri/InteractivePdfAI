@@ -38,9 +38,6 @@ Interactive PDF AI is an online PDF question-answering system that allows users 
 
 2. **Clone this repository**:
 
-   ```bash
-   git clone https://github.com/PavanY02/InteractivePdfAI.git
-
 3. Install the Requirements:
 
    ```
