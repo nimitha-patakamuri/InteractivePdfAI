@@ -53,11 +53,11 @@ Interactive PDF AI is an online PDF question-answering system that allows users 
 
 1. After running main.py, an interface will be displayed where you can upload your PDFs.
 
-2.After selecting and uploading the PDFs, click on the "Process" button and wait until "Process Completed" is displayed.
+ 2.After selecting and uploading the PDFs, click on the "Process" button and wait until "Process Completed" is displayed.
 
-3.Now, ask your questions related to your PDFs and wait for the response.
+ 3.Now, ask your questions related to your PDFs and wait for the response.
 
-4.Your responses will be stored until your session state ends.
+ 4.Your responses will be stored until your session state ends.
 
 
 ## Contributing
